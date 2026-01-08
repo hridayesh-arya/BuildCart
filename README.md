@@ -91,7 +91,7 @@ The project demonstrates real-world e-commerce features including authentication
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/hridayesh-arya/BuildCart.git
 cd buildcart
 ```
 
