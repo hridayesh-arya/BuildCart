@@ -54,7 +54,6 @@ const Index = () => {
             Discover premium products at unbeatable prices. Shop the latest
             trends with confidence.
             <br />
-            <small> Prepared for Ziskir Task Completion by Hridayesh Arya, IIIT-A (IIT2023148)</small>
            
             
           </p>
